@@ -6,5 +6,5 @@ Place the three untouched source recordings here:
 - 20260328_141446.mp4
 - 20260328_143448.mp4
 
-These files are tracked with Git LFS (see /.gitattributes). The production
+These files are kept out of git (too large); master copies live in Google Drive. The production
 pipeline only reads from this folder and never modifies these files.
