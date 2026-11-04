@@ -1,3 +1,6 @@
 key-solutions-video-project/originals/*.mp4
 key-solutions-video-project/originals/*.MP4
 key-solutions-video-project/processed/*.mp4
+key-solutions-video-project/previews/*_PREVIEW.mp4
+key-solutions-video-project/previews/stills/
+key-solutions-video-project/audio/*_raw.wav
