@@ -2,8 +2,14 @@
 
 **Spec:** 1080×1920 · 30 fps · 1,800 frames (60.0 s) · H.264 MP4 · 9:16
 **Safe area:** x 60–1020, y 150–1750 (960 × 1600 px). Font minimums: headline 56, body 36, label 28, caption 36.
-**Font:** Inter (`@remotion/google-fonts/Inter`) unless the site uses another brand font.
-**Palette (fallback until site is reachable):** Navy `#0B1B3A` · Deep navy `#071228` · Electric blue `#2F7BFF` · Cyan accent `#38D6FF` · White `#FFFFFF` · Success `#22C38E` · Amber `#F5A524`.
+**Brand (from owner-supplied banner `video-plan/assets/brand-banner.png`):**
+- Wordmark: gold key icon + "Key Solutions" in a classic high-contrast serif (recreated with **Tinos**, Times-metric, OFL) with a thin gold rule underneath.
+- Eyebrow labels: gold, bold, wide letter-spacing, all caps (e.g. "REAL ESTATE SOLUTIONS · AI AUTOMATION").
+- Body/UI/captions: **Poppins** (OFL), which matches the banner's sans text. It replaces Inter.
+- Mood: Florida dusk: navy sky fading into a warm sunset glow. Scene backgrounds use the navy gradient; the final scene reuses the sunset horizon.
+**Palette (sampled from banner):** Night navy `#151C35` · Navy `#242E55` · Water navy `#283760` · **Key gold `#D8B66A`** (primary accent: highlights, active caption word, CTA) · Cream `#F4F1E8` (headlines) · Mist `#D9DCEA` (body) · Sunset glow `#F5D08C` · Dusk mauve `#80606D` · Sand `#B48F57`.
+Functional colors: benefit check `#3CC48F` (green); limitation icon `#E8A33D` amber, outlined so it reads differently from brand gold; UI-mock surfaces `#FFFFFF`/`#F3F4F8` with navy text for the Sheets/Gmail-style cards.
+Electric blue is dropped; gold is the accent throughout.
 **Framework:** Problem → Solution → Demonstration → Applications → Honest Evaluation → CTA
 
 ---
@@ -53,7 +59,7 @@ TransitionSeries durations adjusted so the total is exactly 1,800 frames.
 
 ## Scene 2 — Introducing Key Solutions (7–15 s)
 
-- **Logo:** Key Solutions logo springs in (scale 0.6 → 1, damping 12). *If no logo file is supplied: a clean "Key Solutions" wordmark with a key-shaped icon in electric blue — clearly placeholder until you send the real logo.*
+- **Logo:** Key Solutions logo springs in (scale 0.6 → 1, damping 12). *Gold key icon + serif "Key Solutions" wordmark + thin gold rule, matching the banner.*
 - **Headline:** "Meet Smarter Business Automation"
 - **Sub (40px):** "AI + Google Apps Script + Your Existing Tools"
 - **Tool chips (28px):** Sheets · Gmail · Forms · Calendar (matches the site's list)
@@ -108,7 +114,7 @@ TransitionSeries durations adjusted so the total is exactly 1,800 frames.
 
 ## Scene 6 — Offer + CTA (51–60 s)
 
-- **Background:** blurred, dimmed version of the Scene 3 dashboard.
+- **Background:** the brand's Florida dusk scene (navy sky → sunset glow over water, palm and skyline silhouettes, rebuilt as SVG from the banner) with a blurred, dimmed Scene 3 dashboard floating above it.
 - **Headline:** "Find Out What You Can Automate"
 - **Offer cards (stagger):**
   - **AI Automation Audit — $95 one time** · "Written recommendations" (highlighted, "Start here" tag)
@@ -134,7 +140,7 @@ TransitionSeries durations adjusted so the total is exactly 1,800 frames.
 | 38.5–49.5 | Automation can save time and reduce manual work. But it still needs setup, monitoring, and human judgment. AI isn't perfect. |
 | 51.5–58.5 | Start with a Key Solutions automation audit. See what you can simplify — and where automation actually makes financial sense. |
 
-Captions: burned in, 40px Inter Semibold, white on 70% navy pill, 2–4 words per page with the active word in electric blue; positioned y ≈ 1450–1600 (inside the bottom safe zone, below the main UI). Timings come from the real narration (transcribed with `@remotion/install-whisper-cpp`), and the same data exports the `.srt`.
+Captions: burned in, 40px Poppins SemiBold, white on 70% navy pill, 2–4 words per page with the active word in key gold; positioned y ≈ 1450–1600 (inside the bottom safe zone, below the main UI). Timings come from the real narration (transcribed with `@remotion/install-whisper-cpp`), and the same data exports the `.srt`.
 
 ---
 
@@ -158,10 +164,10 @@ No testimonials, client results, savings %, time-saved figures, certifications o
 
 | Asset | Plan |
 |---|---|
-| Key Solutions logo | **Needed from you** (SVG/PNG), or from the site once reachable. Placeholder wordmark until then. |
+| Key Solutions logo | Rebuilt as a vector from the owner-supplied banner: an SVG gold key plus the serif wordmark. The banner is kept in `video-plan/assets/`. The sunset/skyline art is a possible Scene 6 backdrop (owner's own asset). |
 | Website images/screenshots | None obtained. All UI is illustrative React components (Sheets-*style*, Gmail-*style*), clearly not real accounts. |
 | Google product logos | **Not used.** Google's brand terms limit third-party marketing use of its logos; we use neutral icons + product names and a trademark footnote. |
 | People | Simple illustrated avatar (no stock photos, no real people). |
 | Voiceover | Generate with the **Speko** connector's speech synthesis (an authorized TTS service on your account) using a clear, confident American English voice — or your own recorded VO. |
 | Music | Original, procedurally generated soft electronic bed (synth pad + light pulse) made in this session, mixed at ~−22 dB under VO — no third-party tracks. |
-| Fonts | Inter (SIL Open Font License). |
+| Fonts | Tinos + Poppins via `@remotion/google-fonts` (SIL Open Font License). |
