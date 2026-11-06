@@ -12,13 +12,15 @@
 
 | Item | Status | Source |
 |---|---|---|
-| keysolutionsfl.com / `/ai-automation` page | **NOT REACHED** — host blocked by this cloud session's network policy | — |
+| `/ai-automation` page text | **Verified** from page text supplied by owner (host itself is blocked in this session) | keysolutionsfl.com/ai-automation, 2026-11-06 |
 | Logo, brand colors, fonts, site images | **Not found** (no images in Google Drive) | — |
 | Business positioning | Found | Owner's brief, Gmail, 2026-10-02 |
-| AI Automation Audit — **$95 one-time** | Confirmed in owner's materials | Gmail, 2026-10-20 brief + 2026-10-22 sales reply |
-| AI Apps Script Integration — **$777 one-time** | Confirmed in owner's materials (fixed price, *not* "starting at") | Gmail, 2026-10-20 brief |
-| Ongoing Maintenance — **$99/month** | Confirmed in owner's materials | Gmail, 2026-10-20 brief |
-| Audit scope / deliverables | **Not finalized** ("still finalizing the exact format") | Gmail, 2026-10-22 |
+| AI Automation Audit — **$95 one time**: review of repetitive processes + written recommendations | **Verified on page** | /ai-automation |
+| AI + Google Apps Script integration — **$777 one time**: one agreed workflow, built & configured in client's Google account. Larger/additional projects quoted separately → use "one time", **not** "starting at" | **Verified on page** | /ai-automation |
+| Maintenance — **$99 per month**: monitoring, troubleshooting, minor adjustments (optional) | **Verified on page** | /ai-automation |
+| Free 10-minute intro call | **Verified on page** | /ai-automation |
+| "No per-user fees"; runs inside the client's own Google account | **Verified on page** | /ai-automation |
+| Audit scope | Reviews lead mgmt, follow-up, email, spreadsheet & admin processes → written list of what could be automated and how | /ai-automation |
 | Contact URL | `https://keysolutionsfl.com/ai-automation` (given by owner) | Chat |
 | Google Apps Script quotas & capabilities | From prior knowledge — **must verify** against developers.google.com (host blocked) | — |
 
@@ -54,6 +56,7 @@ TransitionSeries durations adjusted so the total is exactly 1,800 frames.
 - **Logo:** Key Solutions logo springs in (scale 0.6 → 1, damping 12). *If no logo file is supplied: a clean "Key Solutions" wordmark with a key-shaped icon in electric blue — clearly placeholder until you send the real logo.*
 - **Headline:** "Meet Smarter Business Automation"
 - **Sub (40px):** "AI + Google Apps Script + Your Existing Tools"
+- **Tool chips (28px):** Sheets · Gmail · Forms · Calendar (matches the site's list)
 - **Workflow (vertical, mobile-friendly):** Google Sheets → Apps Script → AI → Gmail → Lead Tracker. Nodes stagger in (8-frame offsets); SVG connector lines draw with `strokeDashoffset`; a glowing pulse dot travels down the chain.
 - **Label (28px):** "Tailored to your actual business process"
 - **Logos:** Generic icons + text names (not official Google logos — see Licensing). Footnote: "Google Sheets, Gmail and Apps Script are trademarks of Google LLC. Key Solutions is not affiliated with Google."
@@ -108,10 +111,11 @@ TransitionSeries durations adjusted so the total is exactly 1,800 frames.
 - **Background:** blurred, dimmed version of the Scene 3 dashboard.
 - **Headline:** "Find Out What You Can Automate"
 - **Offer cards (stagger):**
-  - **AI Automation Audit — $95** (highlighted, "Start here" tag)
-  - **Apps Script + AI Integration — $777 one-time**
-  - **Ongoing Maintenance — $99/month**
-- **Label (28px):** "Prices as of Nov 2026. Integration scope confirmed after the audit."
+  - **AI Automation Audit — $95 one time** · "Written recommendations" (highlighted, "Start here" tag)
+  - **AI + Apps Script Integration — $777 one time** · "One agreed workflow, built & tested"
+  - **Maintenance — $99/month (optional)** · "Monitoring & minor adjustments"
+- **Small line above cards (28px):** "Free 10-minute intro call"
+- **Label (28px):** "Larger projects quoted separately. No guarantee of leads or revenue."
 - **CTA button (pulsing glow):** "Explore Your Automation Opportunities"
 - **URL (48px):** keysolutionsfl.com
 - **Out (f240–269):** logo scales slightly and fades to navy.
@@ -144,7 +148,7 @@ Captions: burned in, 40px Inter Semibold, white on 70% navy pill, 2–4 words pe
 | Calendar data can be read to suggest open slots | CalendarApp / Calendar API docs | Verify |
 | AI can make mistakes; human review recommended | General / provider guidance | Safe, qualitative |
 | API usage costs may apply | AI provider pricing pages | Safe, qualitative |
-| Prices $95 / $777 one-time / $99/month | Owner's materials | **Must match the live /ai-automation page before render** |
+| Prices $95 one time / $777 one time / $99 per month; free 10-min intro call | /ai-automation page | Verified 2026-11-06 |
 
 No testimonials, client results, savings %, time-saved figures, certifications or guarantees are used.
 
