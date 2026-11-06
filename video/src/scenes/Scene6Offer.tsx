@@ -18,8 +18,9 @@ const END_AT = 288;
 export const Scene6Offer: React.FC = () => {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
-  const mainOut = interpolate(frame, [END_AT, END_AT + 14], [1, 0], clamp);
-  const endIn = springIn(frame, fps, END_AT + 6, { damping: 14, stiffness: 100 });
+  // Offer layer fully clears before the end card arrives, so the two never overlap
+  const mainOut = interpolate(frame, [END_AT, END_AT + 10], [1, 0], clamp);
+  const endIn = springIn(frame, fps, END_AT + 12, { damping: 200 });
   const finalFade = interpolate(frame, [durationInFrames - 12, durationInFrames - 1], [0, 1], clamp);
   const ctaPulse = 0.5 + 0.5 * Math.sin(frame / 7);
   const ctaIn = springIn(frame, fps, 150, { damping: 12, stiffness: 120 });
@@ -141,6 +142,7 @@ export const Scene6Offer: React.FC = () => {
             fontSize: 56,
             fontWeight: 700,
             letterSpacing: 1,
+            textShadow: "0 2px 12px rgba(21,28,53,0.95), 0 0 4px rgba(21,28,53,0.9)",
             ...fadeUp(frame, fps, 170, 20),
           }}
         >
