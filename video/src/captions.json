@@ -1,0 +1,1716 @@
+{
+ "words": [
+  {
+   "text": "How",
+   "startMs": 400,
+   "endMs": 500,
+   "timestampMs": 450,
+   "confidence": null
+  },
+  {
+   "text": "much",
+   "startMs": 500,
+   "endMs": 700,
+   "timestampMs": 600,
+   "confidence": null
+  },
+  {
+   "text": "time",
+   "startMs": 700,
+   "endMs": 1000,
+   "timestampMs": 850,
+   "confidence": null
+  },
+  {
+   "text": "does",
+   "startMs": 1000,
+   "endMs": 1200,
+   "timestampMs": 1100,
+   "confidence": null
+  },
+  {
+   "text": "your",
+   "startMs": 1200,
+   "endMs": 1300,
+   "timestampMs": 1250,
+   "confidence": null
+  },
+  {
+   "text": "business",
+   "startMs": 1300,
+   "endMs": 1800,
+   "timestampMs": 1550,
+   "confidence": null
+  },
+  {
+   "text": "lose",
+   "startMs": 1800,
+   "endMs": 2300,
+   "timestampMs": 2050,
+   "confidence": null
+  },
+  {
+   "text": "to",
+   "startMs": 2300,
+   "endMs": 2400,
+   "timestampMs": 2350,
+   "confidence": null
+  },
+  {
+   "text": "follow-ups,",
+   "startMs": 2400,
+   "endMs": 3300,
+   "timestampMs": 2850,
+   "confidence": null
+  },
+  {
+   "text": "spreadsheets,",
+   "startMs": 3400,
+   "endMs": 4400,
+   "timestampMs": 3900,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 4700,
+   "endMs": 4800,
+   "timestampMs": 4750,
+   "confidence": null
+  },
+  {
+   "text": "repetitive",
+   "startMs": 4800,
+   "endMs": 5400,
+   "timestampMs": 5100,
+   "confidence": null
+  },
+  {
+   "text": "tasks?",
+   "startMs": 5400,
+   "endMs": 6100,
+   "timestampMs": 5750,
+   "confidence": null
+  },
+  {
+   "text": "Key",
+   "startMs": 7200,
+   "endMs": 7300,
+   "timestampMs": 7250,
+   "confidence": null
+  },
+  {
+   "text": "Solutions",
+   "startMs": 7300,
+   "endMs": 7800,
+   "timestampMs": 7550,
+   "confidence": null
+  },
+  {
+   "text": "connects",
+   "startMs": 7800,
+   "endMs": 8200,
+   "timestampMs": 8000,
+   "confidence": null
+  },
+  {
+   "text": "AI",
+   "startMs": 8200,
+   "endMs": 8500,
+   "timestampMs": 8350,
+   "confidence": null
+  },
+  {
+   "text": "with",
+   "startMs": 8500,
+   "endMs": 8700,
+   "timestampMs": 8600,
+   "confidence": null
+  },
+  {
+   "text": "tools",
+   "startMs": 8700,
+   "endMs": 9000,
+   "timestampMs": 8850,
+   "confidence": null
+  },
+  {
+   "text": "like",
+   "startMs": 9000,
+   "endMs": 9200,
+   "timestampMs": 9100,
+   "confidence": null
+  },
+  {
+   "text": "Google",
+   "startMs": 9200,
+   "endMs": 9600,
+   "timestampMs": 9400,
+   "confidence": null
+  },
+  {
+   "text": "Sheets,",
+   "startMs": 9600,
+   "endMs": 10100,
+   "timestampMs": 9850,
+   "confidence": null
+  },
+  {
+   "text": "Gmail,",
+   "startMs": 10200,
+   "endMs": 11000,
+   "timestampMs": 10600,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 11100,
+   "endMs": 11300,
+   "timestampMs": 11200,
+   "confidence": null
+  },
+  {
+   "text": "Apps",
+   "startMs": 11300,
+   "endMs": 11400,
+   "timestampMs": 11350,
+   "confidence": null
+  },
+  {
+   "text": "Script",
+   "startMs": 11400,
+   "endMs": 12000,
+   "timestampMs": 11700,
+   "confidence": null
+  },
+  {
+   "text": "to",
+   "startMs": 12000,
+   "endMs": 12100,
+   "timestampMs": 12050,
+   "confidence": null
+  },
+  {
+   "text": "automate",
+   "startMs": 12100,
+   "endMs": 12500,
+   "timestampMs": 12300,
+   "confidence": null
+  },
+  {
+   "text": "everyday",
+   "startMs": 12500,
+   "endMs": 13000,
+   "timestampMs": 12750,
+   "confidence": null
+  },
+  {
+   "text": "workflows,",
+   "startMs": 13000,
+   "endMs": 13900,
+   "timestampMs": 13450,
+   "confidence": null
+  },
+  {
+   "text": "built",
+   "startMs": 14100,
+   "endMs": 14300,
+   "timestampMs": 14200,
+   "confidence": null
+  },
+  {
+   "text": "around",
+   "startMs": 14300,
+   "endMs": 14600,
+   "timestampMs": 14450,
+   "confidence": null
+  },
+  {
+   "text": "how",
+   "startMs": 14600,
+   "endMs": 14800,
+   "timestampMs": 14700,
+   "confidence": null
+  },
+  {
+   "text": "you",
+   "startMs": 14800,
+   "endMs": 15000,
+   "timestampMs": 14900,
+   "confidence": null
+  },
+  {
+   "text": "already",
+   "startMs": 15000,
+   "endMs": 15400,
+   "timestampMs": 15200,
+   "confidence": null
+  },
+  {
+   "text": "work.",
+   "startMs": 15400,
+   "endMs": 15600,
+   "timestampMs": 15500,
+   "confidence": null
+  },
+  {
+   "text": "When",
+   "startMs": 16300,
+   "endMs": 16500,
+   "timestampMs": 16400,
+   "confidence": null
+  },
+  {
+   "text": "a",
+   "startMs": 16500,
+   "endMs": 16600,
+   "timestampMs": 16550,
+   "confidence": null
+  },
+  {
+   "text": "lead",
+   "startMs": 16600,
+   "endMs": 17000,
+   "timestampMs": 16800,
+   "confidence": null
+  },
+  {
+   "text": "comes",
+   "startMs": 17000,
+   "endMs": 17200,
+   "timestampMs": 17100,
+   "confidence": null
+  },
+  {
+   "text": "in,",
+   "startMs": 17200,
+   "endMs": 17600,
+   "timestampMs": 17400,
+   "confidence": null
+  },
+  {
+   "text": "automation",
+   "startMs": 18000,
+   "endMs": 18700,
+   "timestampMs": 18350,
+   "confidence": null
+  },
+  {
+   "text": "can",
+   "startMs": 18700,
+   "endMs": 19000,
+   "timestampMs": 18850,
+   "confidence": null
+  },
+  {
+   "text": "organize",
+   "startMs": 19000,
+   "endMs": 19600,
+   "timestampMs": 19300,
+   "confidence": null
+  },
+  {
+   "text": "the",
+   "startMs": 19600,
+   "endMs": 19700,
+   "timestampMs": 19650,
+   "confidence": null
+  },
+  {
+   "text": "inquiry,",
+   "startMs": 19700,
+   "endMs": 20500,
+   "timestampMs": 20100,
+   "confidence": null
+  },
+  {
+   "text": "draft",
+   "startMs": 20800,
+   "endMs": 21200,
+   "timestampMs": 21000,
+   "confidence": null
+  },
+  {
+   "text": "a",
+   "startMs": 21200,
+   "endMs": 21300,
+   "timestampMs": 21250,
+   "confidence": null
+  },
+  {
+   "text": "response,",
+   "startMs": 21300,
+   "endMs": 22200,
+   "timestampMs": 21750,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 22300,
+   "endMs": 22500,
+   "timestampMs": 22400,
+   "confidence": null
+  },
+  {
+   "text": "track",
+   "startMs": 22500,
+   "endMs": 23000,
+   "timestampMs": 22750,
+   "confidence": null
+  },
+  {
+   "text": "follow-ups,",
+   "startMs": 23000,
+   "endMs": 23700,
+   "timestampMs": 23350,
+   "confidence": null
+  },
+  {
+   "text": "while",
+   "startMs": 24100,
+   "endMs": 24300,
+   "timestampMs": 24200,
+   "confidence": null
+  },
+  {
+   "text": "you",
+   "startMs": 24300,
+   "endMs": 24600,
+   "timestampMs": 24450,
+   "confidence": null
+  },
+  {
+   "text": "stay",
+   "startMs": 24600,
+   "endMs": 24900,
+   "timestampMs": 24750,
+   "confidence": null
+  },
+  {
+   "text": "in",
+   "startMs": 24900,
+   "endMs": 25000,
+   "timestampMs": 24950,
+   "confidence": null
+  },
+  {
+   "text": "control.",
+   "startMs": 25000,
+   "endMs": 25600,
+   "timestampMs": 25300,
+   "confidence": null
+  },
+  {
+   "text": "From",
+   "startMs": 27900,
+   "endMs": 28100,
+   "timestampMs": 28000,
+   "confidence": null
+  },
+  {
+   "text": "service",
+   "startMs": 28100,
+   "endMs": 28500,
+   "timestampMs": 28300,
+   "confidence": null
+  },
+  {
+   "text": "requests",
+   "startMs": 28500,
+   "endMs": 29100,
+   "timestampMs": 28800,
+   "confidence": null
+  },
+  {
+   "text": "to",
+   "startMs": 29100,
+   "endMs": 29300,
+   "timestampMs": 29200,
+   "confidence": null
+  },
+  {
+   "text": "scheduling",
+   "startMs": 29300,
+   "endMs": 30000,
+   "timestampMs": 29650,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 30000,
+   "endMs": 30200,
+   "timestampMs": 30100,
+   "confidence": null
+  },
+  {
+   "text": "customer",
+   "startMs": 30200,
+   "endMs": 30700,
+   "timestampMs": 30450,
+   "confidence": null
+  },
+  {
+   "text": "follow-ups,",
+   "startMs": 30700,
+   "endMs": 31400,
+   "timestampMs": 31050,
+   "confidence": null
+  },
+  {
+   "text": "one",
+   "startMs": 31800,
+   "endMs": 32100,
+   "timestampMs": 31950,
+   "confidence": null
+  },
+  {
+   "text": "well-designed",
+   "startMs": 32100,
+   "endMs": 32900,
+   "timestampMs": 32500,
+   "confidence": null
+  },
+  {
+   "text": "workflow",
+   "startMs": 32900,
+   "endMs": 33500,
+   "timestampMs": 33200,
+   "confidence": null
+  },
+  {
+   "text": "can",
+   "startMs": 33500,
+   "endMs": 33700,
+   "timestampMs": 33600,
+   "confidence": null
+  },
+  {
+   "text": "take",
+   "startMs": 33700,
+   "endMs": 34000,
+   "timestampMs": 33850,
+   "confidence": null
+  },
+  {
+   "text": "a",
+   "startMs": 34000,
+   "endMs": 34080,
+   "timestampMs": 34040,
+   "confidence": null
+  },
+  {
+   "text": "lot",
+   "startMs": 34000,
+   "endMs": 34400,
+   "timestampMs": 34200,
+   "confidence": null
+  },
+  {
+   "text": "of",
+   "startMs": 34400,
+   "endMs": 34500,
+   "timestampMs": 34450,
+   "confidence": null
+  },
+  {
+   "text": "repetitive",
+   "startMs": 34500,
+   "endMs": 35100,
+   "timestampMs": 34800,
+   "confidence": null
+  },
+  {
+   "text": "admin",
+   "startMs": 35100,
+   "endMs": 35500,
+   "timestampMs": 35300,
+   "confidence": null
+  },
+  {
+   "text": "off",
+   "startMs": 35500,
+   "endMs": 35700,
+   "timestampMs": 35600,
+   "confidence": null
+  },
+  {
+   "text": "your",
+   "startMs": 35700,
+   "endMs": 35900,
+   "timestampMs": 35800,
+   "confidence": null
+  },
+  {
+   "text": "plate.",
+   "startMs": 35900,
+   "endMs": 36200,
+   "timestampMs": 36050,
+   "confidence": null
+  },
+  {
+   "text": "Automation",
+   "startMs": 37900,
+   "endMs": 38500,
+   "timestampMs": 38200,
+   "confidence": null
+  },
+  {
+   "text": "can",
+   "startMs": 38500,
+   "endMs": 38700,
+   "timestampMs": 38600,
+   "confidence": null
+  },
+  {
+   "text": "save",
+   "startMs": 38700,
+   "endMs": 39000,
+   "timestampMs": 38850,
+   "confidence": null
+  },
+  {
+   "text": "time",
+   "startMs": 39000,
+   "endMs": 39400,
+   "timestampMs": 39200,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 39400,
+   "endMs": 39500,
+   "timestampMs": 39450,
+   "confidence": null
+  },
+  {
+   "text": "reduce",
+   "startMs": 39500,
+   "endMs": 39900,
+   "timestampMs": 39700,
+   "confidence": null
+  },
+  {
+   "text": "manual",
+   "startMs": 39900,
+   "endMs": 40400,
+   "timestampMs": 40150,
+   "confidence": null
+  },
+  {
+   "text": "work.",
+   "startMs": 40400,
+   "endMs": 40800,
+   "timestampMs": 40600,
+   "confidence": null
+  },
+  {
+   "text": "But",
+   "startMs": 41400,
+   "endMs": 41500,
+   "timestampMs": 41450,
+   "confidence": null
+  },
+  {
+   "text": "it",
+   "startMs": 41500,
+   "endMs": 41600,
+   "timestampMs": 41550,
+   "confidence": null
+  },
+  {
+   "text": "still",
+   "startMs": 41600,
+   "endMs": 41800,
+   "timestampMs": 41700,
+   "confidence": null
+  },
+  {
+   "text": "needs",
+   "startMs": 41800,
+   "endMs": 42200,
+   "timestampMs": 42000,
+   "confidence": null
+  },
+  {
+   "text": "setup,",
+   "startMs": 42200,
+   "endMs": 42700,
+   "timestampMs": 42450,
+   "confidence": null
+  },
+  {
+   "text": "monitoring,",
+   "startMs": 42700,
+   "endMs": 43400,
+   "timestampMs": 43050,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 43400,
+   "endMs": 43500,
+   "timestampMs": 43450,
+   "confidence": null
+  },
+  {
+   "text": "human",
+   "startMs": 43500,
+   "endMs": 43800,
+   "timestampMs": 43650,
+   "confidence": null
+  },
+  {
+   "text": "judgment.",
+   "startMs": 43800,
+   "endMs": 44400,
+   "timestampMs": 44100,
+   "confidence": null
+  },
+  {
+   "text": "AI",
+   "startMs": 45000,
+   "endMs": 45400,
+   "timestampMs": 45200,
+   "confidence": null
+  },
+  {
+   "text": "isn't",
+   "startMs": 45400,
+   "endMs": 45700,
+   "timestampMs": 45550,
+   "confidence": null
+  },
+  {
+   "text": "perfect.",
+   "startMs": 45700,
+   "endMs": 46100,
+   "timestampMs": 45900,
+   "confidence": null
+  },
+  {
+   "text": "Start",
+   "startMs": 48900,
+   "endMs": 49400,
+   "timestampMs": 49150,
+   "confidence": null
+  },
+  {
+   "text": "with",
+   "startMs": 49400,
+   "endMs": 49600,
+   "timestampMs": 49500,
+   "confidence": null
+  },
+  {
+   "text": "a",
+   "startMs": 49600,
+   "endMs": 49700,
+   "timestampMs": 49650,
+   "confidence": null
+  },
+  {
+   "text": "Key",
+   "startMs": 49700,
+   "endMs": 50100,
+   "timestampMs": 49900,
+   "confidence": null
+  },
+  {
+   "text": "Solutions",
+   "startMs": 50100,
+   "endMs": 50900,
+   "timestampMs": 50500,
+   "confidence": null
+  },
+  {
+   "text": "automation",
+   "startMs": 50900,
+   "endMs": 51600,
+   "timestampMs": 51250,
+   "confidence": null
+  },
+  {
+   "text": "audit.",
+   "startMs": 51700,
+   "endMs": 51900,
+   "timestampMs": 51800,
+   "confidence": null
+  },
+  {
+   "text": "See",
+   "startMs": 52700,
+   "endMs": 52900,
+   "timestampMs": 52800,
+   "confidence": null
+  },
+  {
+   "text": "what",
+   "startMs": 52900,
+   "endMs": 53100,
+   "timestampMs": 53000,
+   "confidence": null
+  },
+  {
+   "text": "you",
+   "startMs": 53100,
+   "endMs": 53200,
+   "timestampMs": 53150,
+   "confidence": null
+  },
+  {
+   "text": "can",
+   "startMs": 53200,
+   "endMs": 53400,
+   "timestampMs": 53300,
+   "confidence": null
+  },
+  {
+   "text": "simplify,",
+   "startMs": 53400,
+   "endMs": 54300,
+   "timestampMs": 53850,
+   "confidence": null
+  },
+  {
+   "text": "and",
+   "startMs": 54500,
+   "endMs": 54700,
+   "timestampMs": 54600,
+   "confidence": null
+  },
+  {
+   "text": "where",
+   "startMs": 54700,
+   "endMs": 55100,
+   "timestampMs": 54900,
+   "confidence": null
+  },
+  {
+   "text": "automation",
+   "startMs": 55100,
+   "endMs": 55900,
+   "timestampMs": 55500,
+   "confidence": null
+  },
+  {
+   "text": "actually",
+   "startMs": 55900,
+   "endMs": 56400,
+   "timestampMs": 56150,
+   "confidence": null
+  },
+  {
+   "text": "makes",
+   "startMs": 56400,
+   "endMs": 56800,
+   "timestampMs": 56600,
+   "confidence": null
+  },
+  {
+   "text": "financial",
+   "startMs": 56800,
+   "endMs": 57400,
+   "timestampMs": 57100,
+   "confidence": null
+  },
+  {
+   "text": "sense.",
+   "startMs": 57400,
+   "endMs": 58000,
+   "timestampMs": 57700,
+   "confidence": null
+  }
+ ],
+ "pages": [
+  {
+   "startMs": 400,
+   "endMs": 1000,
+   "words": [
+    {
+     "text": "How",
+     "startMs": 400,
+     "endMs": 500
+    },
+    {
+     "text": "much",
+     "startMs": 500,
+     "endMs": 700
+    },
+    {
+     "text": "time",
+     "startMs": 700,
+     "endMs": 1000
+    }
+   ]
+  },
+  {
+   "startMs": 1000,
+   "endMs": 1800,
+   "words": [
+    {
+     "text": "does",
+     "startMs": 1000,
+     "endMs": 1200
+    },
+    {
+     "text": "your",
+     "startMs": 1200,
+     "endMs": 1300
+    },
+    {
+     "text": "business",
+     "startMs": 1300,
+     "endMs": 1800
+    }
+   ]
+  },
+  {
+   "startMs": 1800,
+   "endMs": 3400,
+   "words": [
+    {
+     "text": "lose",
+     "startMs": 1800,
+     "endMs": 2300
+    },
+    {
+     "text": "to",
+     "startMs": 2300,
+     "endMs": 2400
+    },
+    {
+     "text": "follow-ups,",
+     "startMs": 2400,
+     "endMs": 3300
+    }
+   ]
+  },
+  {
+   "startMs": 3400,
+   "endMs": 4700,
+   "words": [
+    {
+     "text": "spreadsheets,",
+     "startMs": 3400,
+     "endMs": 4400
+    }
+   ]
+  },
+  {
+   "startMs": 4700,
+   "endMs": 5400,
+   "words": [
+    {
+     "text": "and",
+     "startMs": 4700,
+     "endMs": 4800
+    },
+    {
+     "text": "repetitive",
+     "startMs": 4800,
+     "endMs": 5400
+    }
+   ]
+  },
+  {
+   "startMs": 5400,
+   "endMs": 6700,
+   "words": [
+    {
+     "text": "tasks?",
+     "startMs": 5400,
+     "endMs": 6100
+    }
+   ]
+  },
+  {
+   "startMs": 7200,
+   "endMs": 7800,
+   "words": [
+    {
+     "text": "Key",
+     "startMs": 7200,
+     "endMs": 7300
+    },
+    {
+     "text": "Solutions",
+     "startMs": 7300,
+     "endMs": 7800
+    }
+   ]
+  },
+  {
+   "startMs": 7800,
+   "endMs": 8700,
+   "words": [
+    {
+     "text": "connects",
+     "startMs": 7800,
+     "endMs": 8200
+    },
+    {
+     "text": "AI",
+     "startMs": 8200,
+     "endMs": 8500
+    },
+    {
+     "text": "with",
+     "startMs": 8500,
+     "endMs": 8700
+    }
+   ]
+  },
+  {
+   "startMs": 8700,
+   "endMs": 9600,
+   "words": [
+    {
+     "text": "tools",
+     "startMs": 8700,
+     "endMs": 9000
+    },
+    {
+     "text": "like",
+     "startMs": 9000,
+     "endMs": 9200
+    },
+    {
+     "text": "Google",
+     "startMs": 9200,
+     "endMs": 9600
+    }
+   ]
+  },
+  {
+   "startMs": 9600,
+   "endMs": 10200,
+   "words": [
+    {
+     "text": "Sheets,",
+     "startMs": 9600,
+     "endMs": 10100
+    }
+   ]
+  },
+  {
+   "startMs": 10200,
+   "endMs": 11100,
+   "words": [
+    {
+     "text": "Gmail,",
+     "startMs": 10200,
+     "endMs": 11000
+    }
+   ]
+  },
+  {
+   "startMs": 11100,
+   "endMs": 12000,
+   "words": [
+    {
+     "text": "and",
+     "startMs": 11100,
+     "endMs": 11300
+    },
+    {
+     "text": "Apps",
+     "startMs": 11300,
+     "endMs": 11400
+    },
+    {
+     "text": "Script",
+     "startMs": 11400,
+     "endMs": 12000
+    }
+   ]
+  },
+  {
+   "startMs": 12000,
+   "endMs": 13000,
+   "words": [
+    {
+     "text": "to",
+     "startMs": 12000,
+     "endMs": 12100
+    },
+    {
+     "text": "automate",
+     "startMs": 12100,
+     "endMs": 12500
+    },
+    {
+     "text": "everyday",
+     "startMs": 12500,
+     "endMs": 13000
+    }
+   ]
+  },
+  {
+   "startMs": 13000,
+   "endMs": 14100,
+   "words": [
+    {
+     "text": "workflows,",
+     "startMs": 13000,
+     "endMs": 13900
+    }
+   ]
+  },
+  {
+   "startMs": 14100,
+   "endMs": 14800,
+   "words": [
+    {
+     "text": "built",
+     "startMs": 14100,
+     "endMs": 14300
+    },
+    {
+     "text": "around",
+     "startMs": 14300,
+     "endMs": 14600
+    },
+    {
+     "text": "how",
+     "startMs": 14600,
+     "endMs": 14800
+    }
+   ]
+  },
+  {
+   "startMs": 14800,
+   "endMs": 16200,
+   "words": [
+    {
+     "text": "you",
+     "startMs": 14800,
+     "endMs": 15000
+    },
+    {
+     "text": "already",
+     "startMs": 15000,
+     "endMs": 15400
+    },
+    {
+     "text": "work.",
+     "startMs": 15400,
+     "endMs": 15600
+    }
+   ]
+  },
+  {
+   "startMs": 16300,
+   "endMs": 17000,
+   "words": [
+    {
+     "text": "When",
+     "startMs": 16300,
+     "endMs": 16500
+    },
+    {
+     "text": "a",
+     "startMs": 16500,
+     "endMs": 16600
+    },
+    {
+     "text": "lead",
+     "startMs": 16600,
+     "endMs": 17000
+    }
+   ]
+  },
+  {
+   "startMs": 17000,
+   "endMs": 18000,
+   "words": [
+    {
+     "text": "comes",
+     "startMs": 17000,
+     "endMs": 17200
+    },
+    {
+     "text": "in,",
+     "startMs": 17200,
+     "endMs": 17600
+    }
+   ]
+  },
+  {
+   "startMs": 18000,
+   "endMs": 19000,
+   "words": [
+    {
+     "text": "automation",
+     "startMs": 18000,
+     "endMs": 18700
+    },
+    {
+     "text": "can",
+     "startMs": 18700,
+     "endMs": 19000
+    }
+   ]
+  },
+  {
+   "startMs": 19000,
+   "endMs": 19700,
+   "words": [
+    {
+     "text": "organize",
+     "startMs": 19000,
+     "endMs": 19600
+    },
+    {
+     "text": "the",
+     "startMs": 19600,
+     "endMs": 19700
+    }
+   ]
+  },
+  {
+   "startMs": 19700,
+   "endMs": 20800,
+   "words": [
+    {
+     "text": "inquiry,",
+     "startMs": 19700,
+     "endMs": 20500
+    }
+   ]
+  },
+  {
+   "startMs": 20800,
+   "endMs": 22300,
+   "words": [
+    {
+     "text": "draft",
+     "startMs": 20800,
+     "endMs": 21200
+    },
+    {
+     "text": "a",
+     "startMs": 21200,
+     "endMs": 21300
+    },
+    {
+     "text": "response,",
+     "startMs": 21300,
+     "endMs": 22200
+    }
+   ]
+  },
+  {
+   "startMs": 22300,
+   "endMs": 23000,
+   "words": [
+    {
+     "text": "and",
+     "startMs": 22300,
+     "endMs": 22500
+    },
+    {
+     "text": "track",
+     "startMs": 22500,
+     "endMs": 23000
+    }
+   ]
+  },
+  {
+   "startMs": 23000,
+   "endMs": 24100,
+   "words": [
+    {
+     "text": "follow-ups,",
+     "startMs": 23000,
+     "endMs": 23700
+    }
+   ]
+  },
+  {
+   "startMs": 24100,
+   "endMs": 24900,
+   "words": [
+    {
+     "text": "while",
+     "startMs": 24100,
+     "endMs": 24300
+    },
+    {
+     "text": "you",
+     "startMs": 24300,
+     "endMs": 24600
+    },
+    {
+     "text": "stay",
+     "startMs": 24600,
+     "endMs": 24900
+    }
+   ]
+  },
+  {
+   "startMs": 24900,
+   "endMs": 26200,
+   "words": [
+    {
+     "text": "in",
+     "startMs": 24900,
+     "endMs": 25000
+    },
+    {
+     "text": "control.",
+     "startMs": 25000,
+     "endMs": 25600
+    }
+   ]
+  },
+  {
+   "startMs": 27900,
+   "endMs": 28500,
+   "words": [
+    {
+     "text": "From",
+     "startMs": 27900,
+     "endMs": 28100
+    },
+    {
+     "text": "service",
+     "startMs": 28100,
+     "endMs": 28500
+    }
+   ]
+  },
+  {
+   "startMs": 28500,
+   "endMs": 29300,
+   "words": [
+    {
+     "text": "requests",
+     "startMs": 28500,
+     "endMs": 29100
+    },
+    {
+     "text": "to",
+     "startMs": 29100,
+     "endMs": 29300
+    }
+   ]
+  },
+  {
+   "startMs": 29300,
+   "endMs": 30200,
+   "words": [
+    {
+     "text": "scheduling",
+     "startMs": 29300,
+     "endMs": 30000
+    },
+    {
+     "text": "and",
+     "startMs": 30000,
+     "endMs": 30200
+    }
+   ]
+  },
+  {
+   "startMs": 30200,
+   "endMs": 31800,
+   "words": [
+    {
+     "text": "customer",
+     "startMs": 30200,
+     "endMs": 30700
+    },
+    {
+     "text": "follow-ups,",
+     "startMs": 30700,
+     "endMs": 31400
+    }
+   ]
+  },
+  {
+   "startMs": 31800,
+   "endMs": 32900,
+   "words": [
+    {
+     "text": "one",
+     "startMs": 31800,
+     "endMs": 32100
+    },
+    {
+     "text": "well-designed",
+     "startMs": 32100,
+     "endMs": 32900
+    }
+   ]
+  },
+  {
+   "startMs": 32900,
+   "endMs": 34000,
+   "words": [
+    {
+     "text": "workflow",
+     "startMs": 32900,
+     "endMs": 33500
+    },
+    {
+     "text": "can",
+     "startMs": 33500,
+     "endMs": 33700
+    },
+    {
+     "text": "take",
+     "startMs": 33700,
+     "endMs": 34000
+    }
+   ]
+  },
+  {
+   "startMs": 34000,
+   "endMs": 34500,
+   "words": [
+    {
+     "text": "a",
+     "startMs": 34000,
+     "endMs": 34080
+    },
+    {
+     "text": "lot",
+     "startMs": 34000,
+     "endMs": 34400
+    },
+    {
+     "text": "of",
+     "startMs": 34400,
+     "endMs": 34500
+    }
+   ]
+  },
+  {
+   "startMs": 34500,
+   "endMs": 35700,
+   "words": [
+    {
+     "text": "repetitive",
+     "startMs": 34500,
+     "endMs": 35100
+    },
+    {
+     "text": "admin",
+     "startMs": 35100,
+     "endMs": 35500
+    },
+    {
+     "text": "off",
+     "startMs": 35500,
+     "endMs": 35700
+    }
+   ]
+  },
+  {
+   "startMs": 35700,
+   "endMs": 36800,
+   "words": [
+    {
+     "text": "your",
+     "startMs": 35700,
+     "endMs": 35900
+    },
+    {
+     "text": "plate.",
+     "startMs": 35900,
+     "endMs": 36200
+    }
+   ]
+  },
+  {
+   "startMs": 37900,
+   "endMs": 39000,
+   "words": [
+    {
+     "text": "Automation",
+     "startMs": 37900,
+     "endMs": 38500
+    },
+    {
+     "text": "can",
+     "startMs": 38500,
+     "endMs": 38700
+    },
+    {
+     "text": "save",
+     "startMs": 38700,
+     "endMs": 39000
+    }
+   ]
+  },
+  {
+   "startMs": 39000,
+   "endMs": 39900,
+   "words": [
+    {
+     "text": "time",
+     "startMs": 39000,
+     "endMs": 39400
+    },
+    {
+     "text": "and",
+     "startMs": 39400,
+     "endMs": 39500
+    },
+    {
+     "text": "reduce",
+     "startMs": 39500,
+     "endMs": 39900
+    }
+   ]
+  },
+  {
+   "startMs": 39900,
+   "endMs": 41400,
+   "words": [
+    {
+     "text": "manual",
+     "startMs": 39900,
+     "endMs": 40400
+    },
+    {
+     "text": "work.",
+     "startMs": 40400,
+     "endMs": 40800
+    }
+   ]
+  },
+  {
+   "startMs": 41400,
+   "endMs": 41800,
+   "words": [
+    {
+     "text": "But",
+     "startMs": 41400,
+     "endMs": 41500
+    },
+    {
+     "text": "it",
+     "startMs": 41500,
+     "endMs": 41600
+    },
+    {
+     "text": "still",
+     "startMs": 41600,
+     "endMs": 41800
+    }
+   ]
+  },
+  {
+   "startMs": 41800,
+   "endMs": 42700,
+   "words": [
+    {
+     "text": "needs",
+     "startMs": 41800,
+     "endMs": 42200
+    },
+    {
+     "text": "setup,",
+     "startMs": 42200,
+     "endMs": 42700
+    }
+   ]
+  },
+  {
+   "startMs": 42700,
+   "endMs": 43400,
+   "words": [
+    {
+     "text": "monitoring,",
+     "startMs": 42700,
+     "endMs": 43400
+    }
+   ]
+  },
+  {
+   "startMs": 43400,
+   "endMs": 45000,
+   "words": [
+    {
+     "text": "and",
+     "startMs": 43400,
+     "endMs": 43500
+    },
+    {
+     "text": "human",
+     "startMs": 43500,
+     "endMs": 43800
+    },
+    {
+     "text": "judgment.",
+     "startMs": 43800,
+     "endMs": 44400
+    }
+   ]
+  },
+  {
+   "startMs": 45000,
+   "endMs": 46700,
+   "words": [
+    {
+     "text": "AI",
+     "startMs": 45000,
+     "endMs": 45400
+    },
+    {
+     "text": "isn't",
+     "startMs": 45400,
+     "endMs": 45700
+    },
+    {
+     "text": "perfect.",
+     "startMs": 45700,
+     "endMs": 46100
+    }
+   ]
+  },
+  {
+   "startMs": 48900,
+   "endMs": 49700,
+   "words": [
+    {
+     "text": "Start",
+     "startMs": 48900,
+     "endMs": 49400
+    },
+    {
+     "text": "with",
+     "startMs": 49400,
+     "endMs": 49600
+    },
+    {
+     "text": "a",
+     "startMs": 49600,
+     "endMs": 49700
+    }
+   ]
+  },
+  {
+   "startMs": 49700,
+   "endMs": 50900,
+   "words": [
+    {
+     "text": "Key",
+     "startMs": 49700,
+     "endMs": 50100
+    },
+    {
+     "text": "Solutions",
+     "startMs": 50100,
+     "endMs": 50900
+    }
+   ]
+  },
+  {
+   "startMs": 50900,
+   "endMs": 52500,
+   "words": [
+    {
+     "text": "automation",
+     "startMs": 50900,
+     "endMs": 51600
+    },
+    {
+     "text": "audit.",
+     "startMs": 51700,
+     "endMs": 51900
+    }
+   ]
+  },
+  {
+   "startMs": 52700,
+   "endMs": 53200,
+   "words": [
+    {
+     "text": "See",
+     "startMs": 52700,
+     "endMs": 52900
+    },
+    {
+     "text": "what",
+     "startMs": 52900,
+     "endMs": 53100
+    },
+    {
+     "text": "you",
+     "startMs": 53100,
+     "endMs": 53200
+    }
+   ]
+  },
+  {
+   "startMs": 53200,
+   "endMs": 54500,
+   "words": [
+    {
+     "text": "can",
+     "startMs": 53200,
+     "endMs": 53400
+    },
+    {
+     "text": "simplify,",
+     "startMs": 53400,
+     "endMs": 54300
+    }
+   ]
+  },
+  {
+   "startMs": 54500,
+   "endMs": 55900,
+   "words": [
+    {
+     "text": "and",
+     "startMs": 54500,
+     "endMs": 54700
+    },
+    {
+     "text": "where",
+     "startMs": 54700,
+     "endMs": 55100
+    },
+    {
+     "text": "automation",
+     "startMs": 55100,
+     "endMs": 55900
+    }
+   ]
+  },
+  {
+   "startMs": 55900,
+   "endMs": 56800,
+   "words": [
+    {
+     "text": "actually",
+     "startMs": 55900,
+     "endMs": 56400
+    },
+    {
+     "text": "makes",
+     "startMs": 56400,
+     "endMs": 56800
+    }
+   ]
+  },
+  {
+   "startMs": 56800,
+   "endMs": 58600,
+   "words": [
+    {
+     "text": "financial",
+     "startMs": 56800,
+     "endMs": 57400
+    },
+    {
+     "text": "sense.",
+     "startMs": 57400,
+     "endMs": 58000
+    }
+   ]
+  }
+ ]
+}

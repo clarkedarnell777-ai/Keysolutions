@@ -1,0 +1,84 @@
+1
+00:00:00,400 --> 00:00:02,299
+How much time does your business lose
+
+2
+00:00:02,300 --> 00:00:06,350
+to follow-ups, spreadsheets, and repetitive tasks?
+
+3
+00:00:07,200 --> 00:00:09,199
+Key Solutions connects AI with tools like
+
+4
+00:00:09,200 --> 00:00:12,099
+Google Sheets, Gmail, and Apps Script to
+
+5
+00:00:12,100 --> 00:00:14,999
+automate everyday workflows, built around how you
+
+6
+00:00:15,000 --> 00:00:15,850
+already work.
+
+7
+00:00:16,300 --> 00:00:17,850
+When a lead comes in,
+
+8
+00:00:18,000 --> 00:00:20,750
+automation can organize the inquiry,
+
+9
+00:00:20,800 --> 00:00:23,950
+draft a response, and track follow-ups,
+
+10
+00:00:24,100 --> 00:00:25,850
+while you stay in control.
+
+11
+00:00:27,900 --> 00:00:30,699
+From service requests to scheduling and customer
+
+12
+00:00:30,700 --> 00:00:33,999
+follow-ups, one well-designed workflow can take a
+
+13
+00:00:34,000 --> 00:00:36,450
+lot of repetitive admin off your plate.
+
+14
+00:00:37,900 --> 00:00:40,399
+Automation can save time and reduce manual
+
+15
+00:00:40,400 --> 00:00:41,050
+work.
+
+16
+00:00:41,400 --> 00:00:42,699
+But it still needs setup,
+
+17
+00:00:42,700 --> 00:00:44,650
+monitoring, and human judgment.
+
+18
+00:00:45,000 --> 00:00:46,350
+AI isn't perfect.
+
+19
+00:00:48,900 --> 00:00:52,150
+Start with a Key Solutions automation audit.
+
+20
+00:00:52,700 --> 00:00:54,499
+See what you can simplify,
+
+21
+00:00:54,500 --> 00:00:58,250
+and where automation actually makes financial sense.
+
